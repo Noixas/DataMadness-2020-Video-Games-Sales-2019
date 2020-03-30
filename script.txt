@@ -1,0 +1,36 @@
+This video was created for the data analysis class,
+we will answer three questions using a videogame sales dataset
+The questions are the following
+ 
+To answer our first question we look into the total game count per genre
+where action is clearly the genre with the highest amount but if we look into the genres
+Platform, shooter and role playing that have less games,we can see in the following graph that
+this genres have more sales than action games.
+
+So to answer our question we looked deeper into the numbers and saw that 
+a higher amount of sales in a genre means this genra is more likely to get higher ratings
+while having a bigger amount of games in a genre doesnt influence the ratings
+
+Then we proceed to our next question
+Does user rating reflects more on the sales or is the critics rating?
+After normalizing the data, we can see that in every genre user score is higher than critics, except in sports yet
+when we look into the correlation graph we can see that the critics score correlates twice as much to the sales
+hence critics ratings are more important.
+
+For our third question.
+How does the popularity of platforms change throughout the years?
+First we look into the games quantities per platform, where ps2 and ds dominate the charts,
+this is due to the cheaper costs of producing games for this platforms compare to newer generations
+ and the high demand for more games.
+Then if we see how many years a platform has lived, is obvious that PC is the oldest and how platforms 
+created after the 2000s have a general life cycle of 10 years
+Finally we can see the amount of games released by year per platform where generation of platforms peak 
+around the same time and in every generation increases the amount of games, 
+should be notice that most likely we are missing data of the newest generations, and this havent reached its peak
+
+
+Base on the previous graphs, the role playing genre for both user ratings and critics
+
+CRitic score has a higher correlation to global sales than user scores
+
+Now we can have a quick look to the notebook and well... thank you

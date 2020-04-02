@@ -31,6 +31,9 @@ should be notice that most likely we are missing data of the newest generations,
 
 Base on the previous graphs, the role playing genre for both user ratings and critics
 
-CRitic score has a higher correlation to global sales than user scores
+Critic score has a higher correlation to global sales than user scores
+
+Platforms lifespan use to be shorter and nowadays they can last up to 10 years
+
 
 Now we can have a quick look to the notebook and well... thank you
